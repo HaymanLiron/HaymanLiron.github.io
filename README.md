@@ -1,2 +1,2 @@
 # HaymanLiron.github.io
-My Personal Blog, Served Via Github Pages, Inspired by Jekyll and @iamtrask
+My public facing blog, using GitHub to serve it :)
