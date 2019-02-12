@@ -1,0 +1,24 @@
+# Site settings
+title: datamusings
+subtitle: Liron's Blog on Machine Learning and Deep Learning
+email: liron.hayman@gmail.com
+description: "A machine learning craftsmanship blog."
+baseurl: ""
+url: "https://HaymanLiron.github.io"
+twitter_username: HaymanLiron
+github_username: HaymanLiron
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+# analytics :
+# to include 
+# provider : google
+# google:
+#   tracking_id : 
+# getclicky :
+#   site_id
